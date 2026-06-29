@@ -1,3 +1,5 @@
+console.log(require.resolve("dotenv"));
+require("dotenv").config();
 'use strict';
 require('dotenv').config();
 const logger    = require('./logger');
