@@ -1,0 +1,17 @@
+{
+  "max_active_trades": 5,
+  "scan_interval_sec": 60,
+  "min_signal_score": 95,
+  "min_rr": 2.0,
+  "max_leverage": 10,
+  "cooldown_hours": 4,
+  "spot_enabled": true,
+  "futures_enabled": true,
+  "testnet_enabled": true,
+  "real_trading_enabled": true,
+  "live_pnl_interval_sec": 3,
+  "min_volume_usdt": 1000000,
+  "atr_filter": true,
+  "adx_filter": true,
+  "adx_min": 22
+}
